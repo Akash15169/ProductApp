@@ -1,0 +1,5 @@
+Steps to Run Application 
+
+1] Download/Clone project from github- https://github.com/Akash15169/ProductApp
+2] Open project in VS Code and in terminal run command npm i (to install node modules)
+3] After than run command npx react-native run-android
